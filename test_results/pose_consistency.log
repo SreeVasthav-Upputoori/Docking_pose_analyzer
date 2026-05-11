@@ -1,0 +1,14 @@
+2026-05-11 17:05:50 [INFO] ======================================================================
+2026-05-11 17:05:50 [INFO] DOCKING POSE CONSISTENCY TOOL v1.0
+2026-05-11 17:05:50 [INFO] ======================================================================
+2026-05-11 17:05:50 [INFO] 
+[STEP 1] Loading molecules...
+2026-05-11 17:05:51 [INFO] Loaded protein: 4z34_protein.pdb (6044 atoms)
+2026-05-11 17:05:51 [INFO] Loaded 1 poses (1 compounds) from reference_pose.sdf
+2026-05-11 17:05:51 [INFO] Total molecules loaded: 1
+2026-05-11 17:05:51 [INFO] Reference: MPDR0008_model_Modified (39 heavy atoms)
+2026-05-11 17:05:51 [INFO] Loaded 578 poses (1 compounds) from Docked_poses.sdf
+2026-05-11 17:05:51 [INFO] Total molecules loaded: 578
+2026-05-11 17:05:51 [INFO] Loaded 578 docked poses for comparison
+2026-05-11 17:05:51 [INFO] 
+[STEP 2] Computing RMSD and MCS analysis (poses kept as-docked)...
